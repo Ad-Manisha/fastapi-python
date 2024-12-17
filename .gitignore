@@ -1,4 +1,4 @@
-# Ignore Python Virtual Env
+# Ignore Python Virtual Environment
 venv/
 
 #Ignore Cached files (Compiled File)
